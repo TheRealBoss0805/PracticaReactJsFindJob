@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body{
+  background: #7db5c2;
+}
+:root{
+  --color-titulo: #1a3448;
+  --color-texto: #222222;
+  --tamanio-texto: 16px;
+}
+
